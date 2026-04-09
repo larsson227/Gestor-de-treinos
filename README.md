@@ -1,4 +1,4 @@
-🏋️‍♂️ Workout Manager - Versão Beta (V1.0)
+🏋️‍♂️ Workout Manager - Versão Beta (V0.1)
 Bem-vindo ao Workout Manager, uma solução moderna e intuitiva para a gestão de planos de treino, desenvolvida pela Larsson Technologies.
 
 Este software foi concebido para simplificar a organização da rotina desportiva, oferecendo uma interface limpa e funcional para utilizadores que procuram otimizar a sua performance física.
